@@ -1,0 +1,101 @@
+TANGGAL;BRAND;JENIS_MOBIL;TAHUN_PRODUKSI;PLAT_NOMOR;TARIF;JENIS_TARIF;DESKRIPSI_TARIF;KOTA;CABANG;DURASI_SEWA
+06-02-2023;Toyota;Avalon;1998;N 1390 YZ;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;4
+08-03-2022;Toyota;RAV4;1998;D 7762 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;6
+12-05-2020;Mercedes-Benz;W201;1991;F 6461 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;2
+11-08-2021;Jeep;Patriot;2010;AG 7762 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;1
+03-06-2022;Volvo;S60;2001;N 1390 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;7
+14-01-2020;Buick;Skyhawk;1986;AG 6461 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;1
+16-04-2021;Mazda;B-Series;2001;AG 1390 DH;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;2
+01-04-2020;Suzuki;Equator;2012;D 1390 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;2
+28-09-2022;Chrysler;300;2012;D 7762 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;3
+19-11-2023;GMC;Suburban 2500;1995;AB 1390 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;5
+01-10-2022;Oldsmobile;Cutlass;1999;N 1390 LW;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;4
+23-03-2023;Volkswagen;Eurovan;2000;AB 6461 TOR;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;1
+12-10-2022;Mercury;Grand Marquis;1997;N 1390 AAJ;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;4
+23-12-2021;Isuzu;Ascender;2007;AB 1390 TOR;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;1
+23-06-2021;Aston Martin;V8 Vantage;2007;AB 6461 YZ;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;7
+06-03-2023;Subaru;XT;1988;AB 7762 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;6
+20-01-2022;Lexus;GS;1996;F 7762 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;6
+31-10-2022;Chevrolet;Express 2500;1998;B 6461 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;1
+18-04-2023;Buick;Riviera;1996;D 1234 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;5
+06-02-2022;Nissan;Murano;2003;F 7762 YZ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;7
+08-10-2023;BMW;X5 M;2012;AE 1234 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;2
+06-09-2021;Lexus;LX;1999;AB 1234 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;5
+23-05-2023;Dodge;Ram Wagon B150;1992;AE 7762 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Klojen;7
+22-07-2020;Volvo;V70;2004;AG 6461 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Blimbing;6
+29-08-2023;Mercedes-Benz;SLK-Class;1997;B 7762 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Lowokwaru;1
+24-08-2021;Audi;S6;2002;AB 1390 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;1
+12-10-2020;Ford;Taurus;2011;AG 1234 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;5
+24-05-2022;Saab;9000;1992;D 6461 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;7
+28-06-2022;Dodge;Caravan;1996;AG 6461 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;7
+26-10-2021;GMC;1500 Club Coupe;1997;AB 1234 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;6
+20-01-2021;Ford;Windstar;2002;AB 7762 LW;50000;Harian;Tarif harian untuk semua mobil;Malang;Klojen;2
+22-05-2022;Volkswagen;Passat;1992;N 7762 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;1
+19-03-2023;Infiniti;G35;2007;D 1234 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;4
+18-06-2021;Volvo;S60;2002;N 1390 YZ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Klojen;3
+26-07-2020;Jeep;Wrangler;1997;AE 6461 LW;50000;Harian;Tarif harian untuk semua mobil;Malang;Kedungkandang;1
+30-07-2022;Volkswagen;GTI;2011;AG 1390 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;1
+31-05-2020;Ford;Escort;1994;F 1390 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;5
+31-01-2023;Lexus;GS;2005;F 1390 TOR;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;7
+06-06-2021;Toyota;RAV4;2008;N 1390 DH;50000;Harian;Tarif harian untuk semua mobil;Malang;Kedungkandang;3
+09-04-2023;Nissan;Xterra;2011;AB 1234 TOR;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;5
+07-06-2021;Mercedes-Benz;400E;1993;AB 1234 YZ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Lowokwaru;5
+16-06-2023;Volvo;V40;2003;AE 1234 YZ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Blimbing;1
+26-05-2023;BMW;X5;2000;F 7762 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;3
+15-10-2021;Mazda;RX-7;1989;AB 6461 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;5
+07-03-2020;Hyundai;Tucson;2006;AG 7762 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;4
+11-04-2023;Kia;Sedona;2005;F 6461 DH;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Klojen;2
+27-09-2022;Pontiac;Grand Prix;1999;AE 1234 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;1
+14-02-2022;Tesla;Model S;2012;N 1390 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;6
+25-08-2022;Ford;Club Wagon;1995;AB 1234 TOR;50000;Harian;Tarif harian untuk semua mobil;Malang;Klojen;2
+09-05-2023;Toyota;Avalon;2011;D 6461 LW;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Lowokwaru;5
+09-08-2021;BMW;1 Series;2012;F 1390 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;1
+10-07-2023;Volkswagen;Passat;1995;AG 1390 YZ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Sukun;2
+07-06-2021;Infiniti;M;2007;B 6461 YZ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;3
+02-10-2022;Saab;9000;1993;F 1390 DH;50000;Harian;Tarif harian untuk semua mobil;Malang;Blimbing;6
+06-05-2021;Ford;Econoline E150;1992;AE 1390 YZ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;3
+29-09-2021;Dodge;Ram 1500 Club;1995;AG 6461 DH;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Klojen;3
+12-06-2020;Lexus;RX;2006;D 1234 AAJ;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;2
+23-03-2022;Chevrolet;Cavalier;1999;AB 6461 TOR;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;3
+31-07-2022;Suzuki;Sidekick;1989;AB 6461 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;7
+17-06-2022;Chevrolet;Classic;2005;N 1390 AAJ;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;3
+18-03-2020;GMC;Safari;2001;AG 6461 YZ;50000;Harian;Tarif harian untuk semua mobil;Malang;Blimbing;1
+06-08-2022;Ford;Mustang;1991;AB 1234 TOR;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;2
+12-02-2023;Chevrolet;Avalanche 2500;2006;N 6461 TOR;50000;Harian;Tarif harian untuk semua mobil;Malang;Blimbing;4
+22-06-2022;Chevrolet;Cavalier;1996;F 7762 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;7
+08-06-2021;Pontiac;Aztek;2005;F 1390 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;5
+25-07-2022;Porsche;911;2007;N 1234 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;7
+20-07-2021;Volkswagen;Golf;1983;AE 1390 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;4
+30-04-2022;Hummer;H1;2004;B 1390 AAJ;50000;Harian;Tarif harian untuk semua mobil;Malang;Kedungkandang;2
+25-09-2021;Acura;MDX;2002;F 6461 TOR;50000;Harian;Tarif harian untuk semua mobil;Malang;Klojen;2
+11-08-2022;Cadillac;Seville;2001;F 1234 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;4
+11-01-2023;Mazda;RX-8;2011;AB 1390 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;1
+03-04-2022;Mercury;Monterey;2005;AG 1234 YZ;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;1
+06-09-2021;Plymouth;Fury;1964;B 1390 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;1
+10-02-2023;Chevrolet;S10;1998;B 1390 BY;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;5
+01-07-2022;Hyundai;Tiburon;1999;F 1390 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;1
+11-11-2021;Holden;Monaro;2004;AG 1234 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;6
+05-09-2021;Saab;9-5;2004;N 6461 DH;50000;Harian;Tarif harian untuk semua mobil;Malang;Sukun;5
+07-05-2020;Chrysler;Cirrus;1996;B 1390 LW;50000;Harian;Tarif harian untuk semua mobil;Malang;Kedungkandang;7
+28-02-2023;Dodge;Ram Van 3500;2002;AE 6461 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;2
+25-03-2020;Isuzu;Hombre Space;1998;N 1390 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Kedungkandang;6
+30-04-2020;Mercury;Topaz;1992;D 1390 YZ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Blimbing;6
+10-03-2021;Mazda;MX-5;2005;AB 1390 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;7
+13-01-2023;Audi;5000S;1985;AE 6461 LW;50000;Harian;Tarif harian untuk semua mobil;Malang;Lowokwaru;1
+20-10-2022;Acura;Integra;1993;N 1234 TOR;50000;Harian;Tarif harian untuk semua mobil;Malang;Kedungkandang;5
+25-08-2023;Dodge;Ram 1500;1997;N 7762 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;7
+18-06-2022;Dodge;Dakota Club;2006;N 1234 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;4
+28-06-2023;Mercedes-Benz;CLK-Class;2008;N 6461 AAJ;50000;Harian;Tarif harian untuk semua mobil;Malang;Klojen;6
+06-12-2021;Ford;Thunderbird;1955;AB 1390 YZ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;4
+06-04-2022;Chevrolet;Prizm;2000;B 7762 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Lowokwaru;5
+24-09-2022;Dodge;Stratus;2002;AB 6461 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;3
+26-11-2020;Subaru;Legacy;2012;D 1390 BY;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;6
+16-07-2022;Mercedes-Benz;E-Class;2000;AB 1390 AAJ;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;2
+07-06-2020;Mercedes-Benz;CL-Class;2012;AE 1234 DH;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Blimbing;1
+09-07-2021;Dodge;Ram Van 3500;2001;AE 1234 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;1
+30-08-2022;Land Rover;Range Rover Evoque;2012;F 7762 LW;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Sukun;6
+29-03-2023;Lexus;LS;2004;F 1234 BY;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Kedungkandang;7
+29-01-2022;Infiniti;G37;2012;AE 7762 TOR;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Blimbing;4
+13-10-2023;Jeep;Wrangler;2000;AG 7762 DH;120000;VIP;Tarif khusus untuk mobil VIP;Malang;Klojen;6
+24-06-2023;GMC;Savana 3500;2004;B 1234 YZ;50000;Harian;Tarif harian untuk semua mobil;Malang;Blimbing;6
+05-04-2020;Chevrolet;Express 2500;1997;F 1234 AAJ;300000;Mingguan;Diskon untuk penyewaan mingguan;Malang;Klojen;2
