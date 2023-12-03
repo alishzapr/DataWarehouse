@@ -1,7 +1,7 @@
-Diagrams
+# Diagrams
 The design of the Data Warehouse was drawn in an information package and star schema with respective attributes :
 
-Dimensions
+**Dimensions**
 
 (-) Date Dimension : Represents the dates when customers rented cars
 
@@ -13,6 +13,6 @@ Dimensions
 
 (-) Rental Duration Dimension : Tracks the length of car rentals, encompassing attributes like rental duration in days.
 
-Facts
+**Facts**
 
 (-) Income : Car rental fares * rental duration
